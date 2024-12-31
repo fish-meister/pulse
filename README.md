@@ -29,6 +29,7 @@ In order to keep your community safe, we have implemented some useful commands.
 - `/warnings [user]` View all warnings that the User has received
 - `/removewarning [user] [index]` Remove a warning from a User
 - `/clearwarnings [user]` Clear all warnings from a User
+- `/timeout [user] [duration] [reason]` Timeout a User
 
 # Information
 Knowing more information about your Server and who is in it can always be of best interest to you.
@@ -36,3 +37,7 @@ Knowing more information about your Server and who is in it can always be of bes
 - `/userinfo [user]` Get information about a specific User
 - `/channelinfo [channel]` Get information about a specific Channel
 - `/roleinfo [role]` Get information about a specific Role
+
+# Levelling
+A competitive way to ensure User engagement in your Server.
+- `/level` Check your level and XP for the Server that you are in
