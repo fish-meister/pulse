@@ -5,6 +5,8 @@ The commands range from basic utility commands to server wide settings.
 
 Welcome to our introduction on how to use Pulse as efficiently as possible!
 
+All commands  marked with a `⚙️` require the User to have the `manage_guild` permission.
+
 # Settings
 In order to use Pulse at its maximum potential, it's a great idea to set up all of the settings features first.
 - `/setmodlogs [channel]` Enable Moderation Logging for your Server
