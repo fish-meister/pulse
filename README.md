@@ -12,7 +12,6 @@ In order to use Pulse at its maximum potential, it's a great idea to set up all 
 - `/setmodlogs [channel] ⚙️` Enable Moderation Logging for your Server
 - `/setwelcomechannel [channel] ⚙️` Enable Welcome Messages in your Server
 - `/setwelcomemessage [description] ⚙️` Set a custom Welcome Message
-- `/setinvitechannel [channel] ⚙️` Set a channel to receive invite logging information
 
 # Utility
 In order to ensure smooth and efficient running of your Server, we have integrated several commands.
@@ -23,7 +22,6 @@ In order to ensure smooth and efficient running of your Server, we have integrat
 - `/codename [user] [name]` Give a User or yourself a codename
 - `/assignrole [user] [role]` Assign a role to a User
 - `/removerole [user] [role]` Remove a role from a User
-- `/invites [user]` See a record of invites for youself or a User
 
 # Moderation
 In order to keep your community safe, we have implemented some useful commands.
