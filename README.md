@@ -9,10 +9,10 @@ All commands  marked with a `⚙️` require the User to have the `manage_guild`
 
 # Settings
 In order to use Pulse at its maximum potential, it's a great idea to set up all of the settings features first.
-- `/setmodlogs [channel]` Enable Moderation Logging for your Server
-- `/setwelcomechannel [channel]` Enable Welcome Messages in your Server
-- `/setwelcomemessage [description]` Set a custom Welcome Message
-- `/setinvitechannel [channel]` Set a channel to receive invite logging information
+- `/setmodlogs [channel] ⚙️` Enable Moderation Logging for your Server
+- `/setwelcomechannel [channel] ⚙️` Enable Welcome Messages in your Server
+- `/setwelcomemessage [description] ⚙️` Set a custom Welcome Message
+- `/setinvitechannel [channel] ⚙️` Set a channel to receive invite logging information
 
 # Utility
 In order to ensure smooth and efficient running of your Server, we have integrated several commands.
@@ -45,3 +45,4 @@ Knowing more information about your Server and who is in it can always be of bes
 # Levelling
 A competitive way to ensure User engagement in your Server.
 - `/level` Check your level and XP for the Server that you are in
+- `/setlevelchannel [channel] ⚙️` Set a channel to receive levelling notifications
