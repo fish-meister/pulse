@@ -22,6 +22,7 @@ In order to ensure smooth and efficient running of your Server, we have integrat
 - `/codename [user] [name]` Give a User or yourself a codename
 - `/assignrole [user] [role]` Assign a role to a User
 - `/removerole [user] [role]` Remove a role from a User
+- `/embed` Create a personalised embed.
 
 # Moderation
 In order to keep your community safe, we have implemented some useful commands.
