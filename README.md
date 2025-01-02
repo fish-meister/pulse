@@ -15,6 +15,8 @@ In order to use Pulse at its maximum potential, it's a great idea to set up all 
   - *Requires the `manage_guild` permission.*
 - `/setwelcomemessage [description] ⚙️` Set a custom Welcome Message
   - *Requires the `manage_guild` permission.*
+- `/setauditlogs [channel] ⚙️` Enable Audit Logging for your Server
+  - *Requires the `manage_guild` permission.*
 
 # Utility
 In order to ensure smooth and efficient running of your Server, we have integrated several commands.
