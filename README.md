@@ -70,6 +70,7 @@ Knowing more information about your Server and who is in it can always be of bes
 # Levelling
 A competitive way to ensure User engagement in your Server.
 - `/level` Check your level and XP for the Server that you are in
+  - *No permission requirement.*
 - `/setlevelchannel [channel] ⚙️` Set a channel to receive levelling notifications
   - *Requires the `manage_guild` permission.*
 
