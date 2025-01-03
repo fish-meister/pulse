@@ -1,4 +1,4 @@
-# Pulse - Simplifying Server Function 📘
+# Pulse - The All In One Bot 📘
 Pulse is a multifunctional bot for discord with a wide variety of commands.
 
 The commands range from basic utility commands to server wide settings.
@@ -75,6 +75,17 @@ A competitive way to ensure User engagement in your Server.
   - *No permission requirement.*
 - `/setlevelchannel [channel] ⚙️` Set a channel to receive levelling notifications
   - *Requires the `manage_guild` permission.*
+
+# Music
+A great way for Users to listen to Music in your Server.
+- `/join` Joins the Voice Channel that you are in
+  - *No permission requirement.*
+- `/leave` Leaves the Voice Channel that you are in
+  - *No permission requirement.*
+- `/play [url]` Plays Music from a YouTube URL
+  - *No permission requirement.*
+- `/stop` Stops playing the current Music Track
+  - *No permission requirement.*
 
 # Variables
 In instances where customisable messages are integrated, you have the option to use different variables that point to certain things.
